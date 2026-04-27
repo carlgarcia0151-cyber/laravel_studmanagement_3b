@@ -29,18 +29,18 @@
                                 <thead>
                                 </thead>
                                 <tbody>
-                                 @foreach($users as $student) --}}
+                                 @foreach($users as $student) 
                                     <tr>
-                                        <td>Matthew Bartolomeo</td>
-                                        <td>matthewbartolomeo@sample.com</td>
+                                        <td>Rafael Love Ciara</td>
+                                        <td>RafaelLoveCiara@sample.com</td>
                                     </tr>
-                                {{-- @endforeach --}}
+                                @endforeach 
                                 </tbody>
                             </table>
                         </div>
                         <!-- /.card-body -->
                     </div>
-
+ <input type="button" class="btn btn-info" value="Add Student Record" style="background-color:green; color:white; border:none; padding:10px 20px; cursor:pointer;">
                 </div>
             </div>
             <!-- /.row -->

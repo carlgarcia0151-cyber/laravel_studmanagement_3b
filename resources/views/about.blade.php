@@ -28,9 +28,33 @@
                         </div>
                     </div>
                 </div>
+                
             </div>
-            <!-- /.row -->
+               <div class="card">
+                        <div class="card-body p-0">
+
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Email</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                              
+                                    <tr>
+                                        <td>Rafael</td>
+                                        <td>Ciara</td>
+                                    </tr>
+                              
+                                </tbody>
+                            </table>
+                        </div>
+                        <!-- /.card-body -->
         </div><!-- /.container-fluid -->
+        
     </div>
+
+ 
     <!-- /.content -->
 @endsection

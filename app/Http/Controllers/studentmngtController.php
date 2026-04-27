@@ -10,6 +10,6 @@ class studentmngtController extends Controller
     {
         $users = User::paginate();
 
-        return view('users.index', compact('users'));
+        return view('student.index', compact('users'));
     }
 }
