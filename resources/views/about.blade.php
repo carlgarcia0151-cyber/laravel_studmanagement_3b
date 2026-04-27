@@ -46,6 +46,11 @@
                                         <td>Rafael</td>
                                         <td>Ciara</td>
                                     </tr>
+                                    <tr>
+                                        <td>Rafael</td>
+                                        <td>Ciara</td>
+                                    </tr>
+                                    
                               
                                 </tbody>
                             </table>
